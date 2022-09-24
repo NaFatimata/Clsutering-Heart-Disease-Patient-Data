@@ -8,8 +8,8 @@ I use k-means and hierarchical clustering algorithms.
 
 The data we are analyzing comes from the V.A. Medical Center in Long Beach, CA and contains characteristics of patients diagnosed with heart disease.
 
-Dataset: [heart_disease_patients.csv](https://github.com/NaFatimata/Clsutering-Heart-Disease-Patient-Data/files/9639134/heart_disease_patients.csv)
-
 CODE: http://rpubs.com/Nafatim/946953
+
+Dataset: [heart_disease_patients.csv](https://github.com/NaFatimata/Clsutering-Heart-Disease-Patient-Data/files/9639134/heart_disease_patients.csv)
 
 TECHNOLOGY: R
